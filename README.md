@@ -8,7 +8,7 @@ _Members: Jenny, Justin, Jannick, Nelly, Haru_
 - [Haru](https://github.com/MiaGMB/Code-1)
 - [Justin](https://github.com/JustinFrei/Code1)
 - [Jenny](https://github.com/jwernerr/Code1)
-- [Nelly:](https://github.com/NxNelly)
+- [Nelly](https://github.com/NxNelly)
 - [Jannick](https://github.com/JNiqua/Code-1)
 
 
