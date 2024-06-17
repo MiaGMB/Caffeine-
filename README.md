@@ -1,8 +1,7 @@
 # Caffeine-
 Team: Caffeine++
 
-Team Captain: Haru
-_Members: Jenny, Justin, Jannick, Nelly, Haru_
+_Members: Jenny, Justin, Jannick, Nelly, Haru_     Team Captain: Haru
 
 - Haru: 
 - Justin: https://github.com/JustinFrei/Code1/blob/main/nodes.md
