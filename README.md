@@ -1,4 +1,4 @@
 # Caffeine-
 Team: Caffeine++
-Members: Jenny, Justin, Jannick, Nelly, Haru
+_Members: Jenny, Justin, Jannick, Nelly, Haru_
 
