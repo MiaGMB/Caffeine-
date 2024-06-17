@@ -5,11 +5,11 @@ Team Captain: Haru
 
 _Members: Jenny, Justin, Jannick, Nelly, Haru_
 
-- [Haru:](https://github.com/MiaGMB/Code-1)
-- Justin: (https://github.com/JustinFrei/Code1)
-- Jenny: https://github.com/jwernerr/Code1
+- [Haru](https://github.com/MiaGMB/Code-1)
+- [Justin](https://github.com/JustinFrei/Code1)
+- [Jenny](https://github.com/jwernerr/Code1)
 - Nelly:
-- Jannick: https://github.com/JNiqua/Code-1
+- [Jannick](https://github.com/JNiqua/Code-1)
 
 
 ![image](https://github.com/MiaGMB/Caffeine-/assets/173050213/b741bd8b-5520-4c38-8eeb-73bb4d7187e8)
