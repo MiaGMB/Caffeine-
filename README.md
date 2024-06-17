@@ -1,7 +1,7 @@
 # Caffeine-
 Team: Caffeine++
 
-Team Captain: Haru
+Team Captain: Hඞru
 
 _Members: Jenny, Justin, Jannick, Nelly, Haru_
 
