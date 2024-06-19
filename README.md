@@ -9,9 +9,9 @@ _Members: Jenny, Justin, Jannick, Nelly, Haru_
 - [Justin](https://github.com/FreiJustin/Code1)
 - [Jenny](https://github.com/jwernerr/Code1)
 - [Nelly](https://github.com/NxNelly/Code1)
-- [Jannick](https://github.com/JNiqua/Code-1)
+- [Jannick](https://github.com/JNiqua/Code-1)       [Table of Contents](https://jniqua.github.io/Code-1/)
 
-[Branch Story]()
+[Branch Story](BranchingStory\Start.html)
 
 ![image](https://github.com/MiaGMB/Caffeine-/assets/173050213/b741bd8b-5520-4c38-8eeb-73bb4d7187e8)
 
