@@ -7,7 +7,7 @@ _Members: Jenny, Justin, Jannick, Nelly, Haru_
 
 - [Haru](https://github.com/MiaGMB/Code-1)     [GitHub Page](https://miagmb.github.io/Code-1/)
 - [Justin](https://github.com/FreiJustin/Code1)
-- [Jenny](https://github.com/jwernerr/Code1)
+- [Jenny](https://github.com/jwernerr/Code1)  [GitHubPage](https://jwernerr.github.io/Code1/)
 - [Nelly](https://github.com/NxNelly/Code1)
 - [Jannick](https://github.com/JNiqua/Code-1)       [Table of Contents](https://jniqua.github.io/Code-1/)
 
