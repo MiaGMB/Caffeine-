@@ -5,7 +5,7 @@ Team Captain: Hඞru
 
 _Members: Jenny, Justin, Jannick, Nelly, Haru_
 
-- [Haru](https://github.com/MiaGMB/Code-1) [GitHub Page](https://miagmb.github.io/Code-1/)
+- [Haru](https://github.com/MiaGMB/Code-1)     [GitHub Page](https://miagmb.github.io/Code-1/)
 - [Justin](https://github.com/FreiJustin/Code1)
 - [Jenny](https://github.com/jwernerr/Code1)
 - [Nelly](https://github.com/NxNelly/Code1)
