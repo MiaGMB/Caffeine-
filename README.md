@@ -1,5 +1,4 @@
-# Caffeineeee
-Team: **Caffeine++**
+# Caffeine++
 
 Team Captain: **Hඞru**
 
