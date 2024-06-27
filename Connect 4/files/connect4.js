@@ -48,5 +48,8 @@ function handleLoad(_event) {
     function validrows() {
         rows = inputrows;
         console.log(rows.toString() + columns.toString());
+        setboard();
     }
+}
+function setboard() {
 }

@@ -55,5 +55,10 @@ function handleLoad(_event:Event):void{
     function validrows(){
         rows=inputrows;
         console.log(rows.toString()+columns.toString())
+        setboard();
     }
+}
+
+function setboard(){
+    
 }
